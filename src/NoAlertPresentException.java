@@ -11,7 +11,7 @@ org.openqa.selenium.NoAlertPresentException will be thrown If below automation c
 class when an alert is not yet on the screen.
 
 driver.switchTo().alert().accept();
-//driver.switchTo().alert().accept();
+
 
 Exception Handling:
 
