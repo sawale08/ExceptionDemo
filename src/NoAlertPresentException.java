@@ -14,6 +14,7 @@ driver.switchTo().alert().accept();
 //driver.switchTo().alert().accept();
 
 Exception Handling:
+Exception Handling:
 
 try {
 driver.switchTo().alert().accept();
